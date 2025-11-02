@@ -97,6 +97,6 @@ Magisk Manager 下载地址：[https://www.coolapk.com/apk/com.topjohnwu.magisk]
 
 ### 10、NOROOT模式下开启模拟后系统提示“定位不可用，正在使用模拟位置”
 
-有写机型上使用NOROOT模式下是有这个提示，提示的意思是系统本身的GPS定位不可用，正在使用Fake Location模拟的位置，这是正常的。如果是模拟没有效果的话，请参考第 6 条。
+有些机型上使用NOROOT模式下是有这个提示，提示的意思是系统本身的GPS定位不可用，正在使用Fake Location模拟的位置，这是正常的。如果是模拟没有效果的话，请参考第 6 条。
 
 ### 未完待续...
